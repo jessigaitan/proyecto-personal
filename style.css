@@ -1,0 +1,161 @@
+.container-fluid{
+
+background-color: #44154a;
+
+
+}
+
+
+
+
+
+
+
+
+.image {
+
+    width: 150px; 
+    height: 150x; 
+    border-radius: 50%; 
+    object-fit: cover; 
+
+
+}
+.bg-purple {
+    background-color: #44154a; 
+
+}
+.bg-light {
+    background-color: aliceblue;
+    
+}
+.fs-1 {
+   color: aliceblue;
+}
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.container {
+    display: flex; 
+    justify-content: space-around; 
+    padding: 20px;
+}
+
+.cuadro {
+    width: 220px;
+    height: 500px; 
+    background-color: #ddaafa; 
+    color: rgb(0, 0, 0);
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(185, 76, 199, 0.836); 
+}
+
+.container {
+    display: flex;
+    justify-content: space-around; 
+    margin: 20px;
+}
+
+.medium-box {
+align-items: center;
+border-radius: 0px;
+    width: 520px;
+    height: 300px;
+
+
+}
+
+.image-container {
+    width: 100%; 
+    overflow: hidden; 
+}
+
+.image-container img {
+    width: 100%; 
+    height: auto; 
+}
+
+
+
+.cuadro {
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    border: 2px solid #641f72be;
+    padding: 10px;
+    width: 200px;
+    background-color: #f1b2e7;
+}
+
+.cuadro img {
+    max-width: 80%;
+    height: auto;
+    margin-bottom: 10px; 
+}
+
+.cuadro p {
+    font-size: 14px;
+    color: #333;
+}
+
+.medium-box2 {
+    flex: 1; 
+    margin: 0;
+  }
+  
+  .medium-box2 {
+    display: flex; 
+    justify-content: flex-end; 
+    border-radius: 10px; 
+    padding: 15px; 
+    width: 340px; 
+    margin: 20px 0;
+    box-shadow: 0 4px 8px rgba(83, 22, 107, 0.966); 
+  }
+
+  .right-box {
+    display: flex; 
+    flex-direction: column; 
+    background-color: #ca50a7; 
+    padding: 1rem; 
+    border-radius: 0.50rem;
+    box-shadow: 0 4px 6px rgba(82, 40, 83, 0.888); 
+    width: 300px; 
+    box-sizing: border-box; 
+    margin-top: -250px; 
+    margin-left: auto;
+  }
+  
+  .contact-containe{
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 50vh; 
+    margin: 0; 
+    background-color: #ffffff; 
+}
+.contact-item {
+    background-color: #4f2e50; 
+    padding: 30px; 
+    border-radius: 8px; 
+    text-align: center; 
+    width: 1220px; 
+}
+.contact-item {
+    margin: 10px 0; 
+}
+img {
+    width: 50px; 
+}
+   
+
+
+  
